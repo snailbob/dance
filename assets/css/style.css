@@ -1,0 +1,14 @@
+/* CSS Document */
+.front-form {
+  /*background-color: rgba(240, 95, 64, .5);
+  padding: 5px;*/
+}
+
+
+.search_class{
+	padding-bottom: 50px;
+}
+
+.more_filter .form-group{
+	display: none;
+}
